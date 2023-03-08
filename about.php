@@ -1,0 +1,4 @@
+<h1><?php echo $title;?></h1>
+<p>The Vidyavardhini’s Bhausaheb Vartak Polytechnic is run by Vidyavardhini Trust, Vasai. The Vidyavardhini established the Vidyavardhini’s Bhausaheb Vartak Polytechnic in the year 1984, with that a long felt need for technical education in the Vasai-Virar region was fulfilled.
+
+The Polytechnic is affiliated to the Maharashtra State Board of Technical Education (MSBTE) and offers diploma courses in Engineering Technology approved by the All India Council of Technical Education, New Delhi (vide letter No.740-89-135 (E)/RC/94 dated April 5, 1995), Director of Technical Education Maharashtra state and government of Maharashtra. The Polytechnic is situated in the sprawling campus of Vidyavardhini at a stone’s throw away from Vasai Road Railway Station and is equipped with the entire infrastructure needed for the various diploma courses it offers.</p>
